@@ -1,0 +1,10 @@
+{
+  "embedding": "all-MiniLM-L6-v2",
+  "claims": 23180,
+  "claims_sha256": "64505f2d684aca33f9bf097493451b86556942e0a65a4e5907648713e7896c9b",
+  "files": {
+    "model.onnx": "b941bf19f1f1283680f449fa6a7336bb5600bdcd5f84d10ddc5cd72218a0fd21",
+    "tokenizer.json": "be50c3628f2bf5bb5e3a7f17b1f74611b2561a3a27eeab05e5aa30f411572037",
+    "claims.faiss": "7335438f3cdf478f6f7c25b20e9c037cd0d301fced81cb97a1d27db54ad8e7f6"
+  }
+}

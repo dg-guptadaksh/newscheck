@@ -1,0 +1,608 @@
+[
+  {
+    "claim": "Quotes Michelle Obama as saying, \"White folks are what’s wrong with America.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/facebook-fact-checks/statements/2019/jan/03/facebook-posts/did-michelle-obama-once-say-white-folks-are-whats-/",
+    "rating": "Pants on Fire"
+  },
+  {
+    "claim": "Says Facebook shut down a \"Chick-Fil-A Appreciation Day.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/texas/statements/2018/apr/23/ted-cruz/ted-cruz-correct-facebook-shut-down-chick-fil-appr/",
+    "rating": "Half True"
+  },
+  {
+    "claim": "\"We haven’t given up anything other than … I agreed to meet.\"",
+    "publisher": "PolitiFact",
+    "url": "http://www.politifact.com/truth-o-meter/article/2018/jun/12/fact-checking-donald-trump-singapore-north-korea/",
+    "rating": "Will military drills end?"
+  },
+  {
+    "claim": "\"BREAKING: 2 Democrat Congressmen On ISIS Payroll Arrested For Treason.\"",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/2017/10/no-isis-arrests-congress/",
+    "rating": "False"
+  },
+  {
+    "claim": "The \"Dallas Cowboys can’t put a sticker on their helmets for the 5 police officers who were killed.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/texas/statements/2016/sep/01/james-woods/james-woods-says-dallas-cowboys-cant-honor-dead-of/",
+    "rating": "True"
+  },
+  {
+    "claim": "Tom Suozzi raised taxes \"by hundreds of millions of dollars\" as Nassau County executive.",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/new-york/statements/2016/sep/23/national-republican-congressional-committee/suozzi-passed-major-tax-hikes-nassau-county/",
+    "rating": "True"
+  },
+  {
+    "claim": "\"Corporate entities are paying a lot less taxes this year then they have in the past. Part of that is from a loophole in a bill that was passed in 2015.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/missouri/statements/2017/mar/02/kip-kendrick/kendrick-mostly-right-about-reduced-corporate-tax-/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "\"Violent crime is now going down for the first time in a long while.”",
+    "publisher": "Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2019/02/15/trumps-false-claim-that-violent-crime-hasnt-gone-down-long-while/",
+    "rating": "Four Pinocchios"
+  },
+  {
+    "claim": "\"Some of the safest communities in the United States are along the border.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/punditfact/statements/2017/may/17/jorge-ramos/jorge-ramos-border-communities-some-safest-country/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "\"For all of those (DACA) that are concerned about your status during the 6 month period, you have nothing to worry about - No action!\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/article/2017/sep/07/what-did-trumps-tweet-about-daca-recipients-mean/",
+    "rating": "Multiple ways to evaluate"
+  },
+  {
+    "claim": "Kate Steinle's shooter \"came back and back over the weakly protected Obama border\"",
+    "publisher": "PolitiFact",
+    "url": "http://www.politifact.com/truth-o-meter/article/2017/dec/18/Donald-Trumps-misleading-claims-in-Kate-Steinle/",
+    "rating": "Mostly entered before Obama"
+  },
+  {
+    "claim": "The financial regulatory bill [Dodd-Frank] \"will kill jobs.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2011/jan/21/mike-pence/mike-pence-says-dodd-frank-financial-regulation-bi/",
+    "rating": "Mostly False"
+  },
+  {
+    "claim": "Says he and Bernie Sanders have \"very similar\" views on trade",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/north-carolina/statements/2016/jul/27/donald-trump/donald-trump-says-he-and-bernie-sanders-are-very-s/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "Photo shows a shark swimming on a freeway in Houston.",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2017/aug/28/blog-posting/there-are-no-sharks-swimming-streets-houston-or-an/",
+    "rating": "Pants on Fire"
+  },
+  {
+    "claim": "Says Beto O’Rourke irresponsibly \"voted against\" Hurricane Harvey \"tax relief.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/texas/statements/2018/aug/29/ted-cruz/ted-cruz-says-beto-orourke-voted-against-tax-relie/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "\"We balanced the budget with the 1997 Balanced Budget Act, and ultimately had four consecutive balanced budgets.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2012/jan/27/newt-gingrich/newt-gingrich-revises-claim-balanced-budgets-impro/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "\"Trump just gave every working, legal man, woman and child in the USA $612 each!\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/punditfact/statements/2017/feb/28/blog-posting/trump-did-not-give-every-working-american-612-thro/",
+    "rating": "Pants on Fire"
+  },
+  {
+    "claim": "Says \"5 out of 10\" GOP candidates don’t live in North Carolina’s 9th Congressional District.",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/north-carolina/statements/2019/apr/25/stony-rushing/rushing-right-half-nc9-republicans-dont-live-distr/",
+    "rating": "True"
+  },
+  {
+    "claim": "Iran has \"violated the terms of the (nuclear) deal.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/georgia/statements/2017/jun/14/karen-handel/iran-complying-nuclear-deal-yes-small-hiccups/",
+    "rating": "Mostly False"
+  },
+  {
+    "claim": "\"Woman says she was offered big money by Washington Post to accuse Roy Moore of misconduct.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/punditfact/statements/2017/dec/11/evening-world/fake-news-about-washington-post-and-roy-moore-accu/",
+    "rating": "Pants on Fire"
+  },
+  {
+    "claim": "\"83 percent of that tax cut goes to the top 1 percent, the richest people in this country.\"",
+    "publisher": "Washington Post",
+    "url": "https://www.washingtonpost.com/politics/2018/11/14/does-trump-tax-cut-give-percent-benefits-top-one-percent/",
+    "rating": "Two Pinocchios"
+  },
+  {
+    "claim": "\"I think you probably saw the CBO report about the cost of the shutdown. $11 billion is their estimate.\"",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/2019/01/hoyer-inflates-cbos-shutdown-cost-estimate/",
+    "rating": "Not the Whole Story"
+  },
+  {
+    "claim": "\"Congress quietly repealed the McCarran Warner Act of 1952 forbidding Muslims from holding office.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/facebook-fact-checks/statements/2019/mar/27/facebook-posts/no-congress-didnt-repeal-law-bars-muslims-holding-/",
+    "rating": "False"
+  },
+  {
+    "claim": "Says President Donald Trump’s proposal to allow Americans to buy health insurance across state lines would make it the same as \"the way you buy car insurance\" today.",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2017/mar/23/mike-pence/discussing-health-care-mike-pence-wrong-about/",
+    "rating": "False"
+  },
+  {
+    "claim": "\"For the last 10 years, our economy has grown at less than 2 percent on average every single year for 10 years. We have not had a decade like that in a century in America.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2017/oct/31/james-lankford/lankford-overstates-slow-growth-past-100-years/",
+    "rating": "Half True"
+  },
+  {
+    "claim": "\"Russia talk is FAKE NEWS put out by the Dems, and played up by the media, in order to mask the big election defeat and the illegal leaks!\"",
+    "publisher": "Washington Post",
+    "url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/06/01/every-russia-story-trump-said-was-a-hoax-by-democrats-a-timeline/?utm_term=.00a9c65f4a3c",
+    "rating": "Not the whole story"
+  },
+  {
+    "claim": "Claims that former Democratic Rep. Beto O'Rourke referred to seniors and wounded veterans as \"garbage.\"",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/2019/02/orourke-didnt-trash-seniors-and-veterans/",
+    "rating": "False"
+  },
+  {
+    "claim": "“Jim Renacci’s been a lobbyist even while in Congress.”",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/2018/05/a-lobbyist-in-congress-not-exactly/",
+    "rating": "Not the Whole Story"
+  },
+  {
+    "claim": "\"Women in our state will continue to have cost-free access to reproductive health care\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/new-york/statements/2017/oct/21/andrew-cuomo/state-birth-control-rule-doesnt-cover-all-insuranc/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "“No, you're wrong\" that stop and frisk was ruled unconstitutional in New York.",
+    "publisher": "Washington Post",
+    "url": "https://www.washingtonpost.com/news/fact-checker/wp/2016/09/28/trumps-false-claim-that-stop-and-frisk-was-not-ruled-unconstitutional/",
+    "rating": "Four Pinocchios"
+  },
+  {
+    "claim": "\"We'll have almost 30 sites off the [Superfund priorities] list this year,\" which has \"almost never been done.\"",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/2018/04/pruitts-tall-tale-on-toxic-cleanups/",
+    "rating": "False"
+  },
+  {
+    "claim": "Says Dean Heller helped \"craft a partisan repeal bill that also would have slashed coverage protections for people with pre-existing conditions.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2018/jun/13/jacky-rosen/did-nevadas-heller-back-bill-cut-pre-existing-cond/",
+    "rating": "Half True"
+  },
+  {
+    "claim": "\"When @ScottWalker told firefighters we didn’t need to worry about Act 10, we said hell no, we stand with working Wisconsinites everywhere.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/wisconsin/statements/2018/mar/07/mahlon-mitchell/first-response-was-applaud-walker-recognizing-fire/",
+    "rating": "Mostly False"
+  },
+  {
+    "claim": "Political activists are \"being paid\" to protest members of Congress.",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2017/feb/27/louie-gohmert/protesters-are-paid-disrupt-town-hall-meetings-goh/",
+    "rating": "False"
+  },
+  {
+    "claim": "Say Gretchen Carlson said, \"The 2nd Amendment Was Written Before Guns Were Invented.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/punditfact/statements/2017/jul/24/blog-posting/no-gretchen-carlson-didnt-say-2nd-amendment-writte/",
+    "rating": "Pants on Fire"
+  },
+  {
+    "claim": "“Then he’s groveling again. You know I always talk about the reporters that grovel when they want to write something that you want to hear but not necessarily millions of people want to hear or have to hear.”",
+    "publisher": "Washington Post",
+    "url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/01/25/trumps-absurd-claim-the-2012-pew-report-researcher-was-groveling/",
+    "rating": "Four Pinocchios"
+  },
+  {
+    "claim": "Probably one out of every two households in Oklahoma has a gun.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2018/mar/02/tom-cole/tom-cole-half-oklahoma-homes-have-gun/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "\"Black Lives Matter, who are attacking law enforcement officers\" -- Barack Obama \"had them to the White House.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/wisconsin/statements/2016/dec/02/sean-duffy/donald-trump-backer-sean-duffy-links-attacks-polic/",
+    "rating": "Mostly False"
+  },
+  {
+    "claim": "“Under their leadership we’ve created 15 million new private-sector jobs.\"",
+    "publisher": "Washington Post",
+    "url": "https://www.washingtonpost.com/news/fact-checker/wp/2016/08/22/clintons-misleading-citation-of-15-million-jobs-under-obama/",
+    "rating": "Three Pinocchios"
+  },
+  {
+    "claim": "\"We have the lowest percentage of Americans actually holding a job in 40 years.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2016/jul/18/jeff-sessions/jeff-sessions-says-lowest-percentage-americans-are/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "Says John Podesta \"refused to give the DNC server to the FBI and the CIA. Disgraceful!\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2017/jul/11/donald-trump/did-john-podesta-deny-cia-and-fbi-access-dnc-serve/",
+    "rating": "False"
+  },
+  {
+    "claim": "\"We are seeing kids who are healthier.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2016/oct/28/hillary-clinton/clinton-says-kids-are-healthier/",
+    "rating": "Half True"
+  },
+  {
+    "claim": "Says Tony Evers \"wants to cut Wisconsin's prison population in half, a dangerous plan that today would mean releasing thousands of violent criminals back into our communities.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/wisconsin/statements/2018/sep/21/scott-walker/tony-evers-supports-cutting-prison-population-50-r/",
+    "rating": "Half True"
+  },
+  {
+    "claim": "\"Black women make only around 63 cents while Native American women earn 58 cents, and Hispanic women make just 54 cents in comparison to every dollar a man makes.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/west-virginia/statements/2019/may/16/west-virginia-democratic-party/fact-checking-median-pay-black-hispanic-women/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "“Stormy Daniels Announces Plans To Run For President”",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/2018/06/stormy-daniels-didnt-announce-2020-campaign/",
+    "rating": "False"
+  },
+  {
+    "claim": "“During the course of 2008, over 120 superdelegates switched their quote-unquote allegiance in that process.\"",
+    "publisher": "Washington Post",
+    "url": "https://www.washingtonpost.com/news/fact-checker/wp/2016/05/05/the-sanders-campaigns-phony-math-on-superdelegates/",
+    "rating": "Four Pinocchios"
+  },
+  {
+    "claim": "\"In the state legislature, I supported Second Amendment rights.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/missouri/statements/2016/oct/06/jason-kander/kander-supported-second-amendment-while-office/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "Says \"Donald Trump says climate change is a hoax invented by the Chinese.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2016/jun/03/hillary-clinton/yes-donald-trump-did-call-climate-change-chinese-h/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "Says Donald Trump once suggested that he “would try to negotiate down the national debt.”",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2016/sep/26/hillary-clinton/hillary-clinton-says-donald-trump-has-said-he-woul/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "Says Evan \"Jenkins has the same positions on the issues as Joe Manchin: supporting Hillary (Clinton), supporting cap-and-trade, supporting Planned Parenthood, many tax increases.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2017/nov/06/patrick-morrisey/do-joe-manchin-and-evan-jenkins-support-clinton-ca/",
+    "rating": "Mostly False"
+  },
+  {
+    "claim": "Chicago city officials \"have adopted an official policy of protecting criminal aliens who prey on their own residents.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/illinois/statements/2017/aug/16/jeff-sessions/jeff-sessions-stretches-link-criminal-aliens-and-c/",
+    "rating": "False"
+  },
+  {
+    "claim": "\"Just last May, the Department of Justice inspector general found that these (‘sanctuary city’) policies also violate federal law.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2017/mar/30/jeff-sessions/jeff-sessions-misleads-saying-inspector-general-fo/",
+    "rating": "Mostly False"
+  },
+  {
+    "claim": "\"There are about as many members of the Armed Forces marching bands as there are American diplomats.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/global-news/statements/2017/mar/31/nicholas-burns/are-there-more-military-band-members-diplomats/",
+    "rating": "Mostly False"
+  },
+  {
+    "claim": "Amazon pays \"little or no taxes to state & local governments, use our Postal System as their Delivery Boy (causing tremendous loss to the U.S.), and are putting many thousands of retailers out of business!\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/article/2018/mar/29/facts-donald-trump-amazon-taxes-usps-retail/",
+    "rating": "Lacks context"
+  },
+  {
+    "claim": "\"Donald Trump said rescuing the auto industry didn’t really matter very much. He said, and I quote again, ‘Let it go.’ \"",
+    "publisher": "Washington Post",
+    "url": "https://www.washingtonpost.com/news/fact-checker/wp/2016/10/18/clintons-bogus-claim-that-trump-didnt-want-to-save-the-auto-industry/",
+    "rating": "Four Pinocchios"
+  },
+  {
+    "claim": "Child care costs \"in some states now exceed the average price tag for college tuition.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/texas/statements/2016/sep/02/donna-howard/donna-howard-says-child-care-some-states-costs-mor/",
+    "rating": "True"
+  },
+  {
+    "claim": "\"The border is down 78 percent. Under past administrations, the border didn’t go down -- it went up.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2017/aug/03/donald-trump/false-trumps-claim-about-illegal-immigration-under/",
+    "rating": "False"
+  },
+  {
+    "claim": "\"Rep. Paul Gosar asks Capitol Police to arrest illegal immigrants attending State of the Union.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/punditfact/statements/2018/feb/01/usa-train-news/rep-paul-gosar-asks-police-arrest-illegal-immigran/",
+    "rating": "True"
+  },
+  {
+    "claim": "New York has \"the biggest outmigration of citizens of any state.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/new-york/statements/2017/sep/29/edward-cox/new-york-has-most-people-leaving-other-states-coun/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "A study by the National Economics Research Association showed that the deal could cost 2.7 million lost jobs in the U.S. by 2025 should our country adhere to the commitments made by the Obama Administration.",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/florida/statements/2017/jun/21/gus-bilirakis/gus-bilirakis-cites-flawed-study-defend-us-wit/",
+    "rating": "False"
+  },
+  {
+    "claim": "Says the United States is in \"the worst recovery from an economic recession since World War II.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2015/nov/10/chris-christie/christie-us-worst-recovery-wwii/",
+    "rating": "Half True"
+  },
+  {
+    "claim": "\"Western New Yorkers pay some of the highest property taxes in the state.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/new-york/statements/2017/jul/07/raymond-walter/where-are-property-taxes-highest-new-york/",
+    "rating": "Half True"
+  },
+  {
+    "claim": "\"There is nothing that we have done on Amazon that we have not done with hundreds of other projects.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/new-york/statements/2018/dec/07/andrew-cuomo/cuomo-said-treatment-amazon-no-different/",
+    "rating": "True"
+  },
+  {
+    "claim": "\"We have become an energy exporter for the first time ever just recently.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2017/aug/23/donald-trump/donald-trump-wrongly-says-us-net-energy-exporte/",
+    "rating": "False"
+  },
+  {
+    "claim": "\"Marco Rubio made it clear: Not only does he think Donald Trump is a con man, he went on to say he doesn't trust Donald Trump with the nuclear codes.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/florida/statements/2016/oct/18/patrick-murphy/patrick-murphy-right-about-marco-rubio-attacks-don/",
+    "rating": "True"
+  },
+  {
+    "claim": "“Very soon we are going to Mars. You wouldn't have been going to Mars if my opponent won, that I can tell you. You wouldn't even be thinking about it.”",
+    "publisher": "The Washington Post",
+    "url": "https://www.washingtonpost.com/news/fact-checker/wp/2018/03/18/president-trumps-false-claim-that-clinton-wouldnt-have-sent-humans-to-mars/",
+    "rating": "Four Pinocchios"
+  },
+  {
+    "claim": "\"Black Panthers Just Took Over City (Atlanta) – All Out War On Election Day\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/facebook-fact-checks/statements/2018/nov/06/blog-posting/pants-fire-claim-armed-black-panthers-atlanta-stre/",
+    "rating": "Pants on Fire"
+  },
+  {
+    "claim": "\"We’ve lost, over a fairly short period of time, 60,000 factories in our country — closed, shuttered, gone. Six million jobs, at least, gone.\"",
+    "publisher": "Washington Post",
+    "url": "https://www.washingtonpost.com/news/fact-checker/wp/2018/03/26/president-trumps-claim-that-china-caused-60000-u-s-factories-to-close/",
+    "rating": "Two Pinocchios"
+  },
+  {
+    "claim": "\"Gov. Rick Scott made it illegal for a doctor to ask a patient if they owned a gun, even a mental health professional. This law was so dangerous that a court had to strike it down.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/florida/statements/2018/feb/22/giffords/florida-gov-rick-scott-made-it-illegal-doctors-tal/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "Says Neil Gorsuch \"comes down on the side of felons over gun safety.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2017/feb/02/nancy-pelosi/pelosis-misleading-claim-gorsuch-sides-felons-over/",
+    "rating": "Mostly False"
+  },
+  {
+    "claim": "Tuberculosis recently passed \"HIV/AIDS as the leading infectious killer globally.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/global-news/statements/2017/jan/11/nick-seymour/tuberculosis-might-top-hivaids-deadliest-infectiou/",
+    "rating": "Half True"
+  },
+  {
+    "claim": "Says \"Marco Rubio wanted to cut Social Security and Medicare because he said they’re bankrupting our country.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/florida/statements/2016/sep/16/senate-majority-pac/fact-checking-democratic-attacks-marco-rubios-stat/",
+    "rating": "Half True"
+  },
+  {
+    "claim": "\"Joe Manchin has a ‘D' rating from the NRA.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/west-virginia/statements/2018/sep/28/patrick-morrisey/does-joe-manchin-have-d-rating-national-rifle-asso/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "Says Russ Feingold broke his 1992 promise to always get the majority of funding from Wisconsin residents.",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/wisconsin/statements/2016/sep/07/ron-johnson/feingold-broke-promise-fund-campaign-primarily-sta/",
+    "rating": "True"
+  },
+  {
+    "claim": "Says Al Jazeera, \"a mouthpiece for terrorists, has been paying Jon Ossoff thousands of dollars. ... What is he hiding?\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/georgia/statements/2017/apr/13/congressional-leadership-fund/attack-ad-ties-jon-ossoff-al-jazeera/",
+    "rating": "Mostly False"
+  },
+  {
+    "claim": "Donald Trump's inauguration \"will be the first one that I miss since I’ve been in the Congress.\"",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/2017/01/lewis-skipped-bushs-inauguration-too/",
+    "rating": "False"
+  },
+  {
+    "claim": "\"Georgia Becomes First State To Ban Muslim Culture In Historic Move To Restore Western Values.\"",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/2018/03/georgia-didnt-ban-muslim-culture/",
+    "rating": "False"
+  },
+  {
+    "claim": "“Right now, we are one of the highest-taxed nations in the world. Really, on a large-scale basis, we are the highest-taxed nation in the world.”",
+    "publisher": "PolitiFact",
+    "url": "http://www.politifact.com/truth-o-meter/article/2017/jun/22/fact-checking-nine-things-trump-overstated-got-wro/",
+    "rating": "Talking point still mixed"
+  },
+  {
+    "claim": "\"Since we passed tax cuts, over 3 million workers have gotten tax cut bonuses — many of them thousands and thousands of dollars.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2018/jan/30/donald-trump/trump-says-tax-bill-led-bonuses-three-million-work/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "Says Nancy Pelosi and Beto O’Rourke were photographed with El Chapo.",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/facebook-fact-checks/statements/2019/feb/06/viral-image/viral-image-falsely-identifies-us-congressman-el-c/",
+    "rating": "Pants on Fire"
+  },
+  {
+    "claim": "\"IDC members also get tons of campaign money from real estate, charter school, and health care lobbyists, some of whom are Republicans with connections to Trump\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/new-york/statements/2017/nov/05/creative-resistance/progressive-group-accuses-senate-splinter-group-do/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "\"We’ve got dozens of counties around America that have zero insurers left.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2017/aug/24/paul-ryan/ryan-way-obamacare-county-insurance-stat-cnn-town-/",
+    "rating": "Pants on Fire"
+  },
+  {
+    "claim": "\"Obama's Private 'Security' Company Sets Up Massive Camps Outside 3 Major Cities\"",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/2018/04/obamas-private-military-doesnt-exist/",
+    "rating": "False"
+  },
+  {
+    "claim": "\"China will enter the TPP through the back door at a later date. They are watching, they are studying. ... If it is good, they will be there.\"",
+    "publisher": "Washington Post",
+    "url": "https://www.washingtonpost.com/news/fact-checker/wp/2016/06/30/donald-trumps-claim-that-china-will-enter-the-trans-pacific-partnership-at-a-later-date/",
+    "rating": "Three Pinocchios"
+  },
+  {
+    "claim": "In the Paula Jones case, Bill Clinton paid an \"$850,000 penalty.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2016/oct/27/newt-gingrich/gingrich-misleading-call-850000-paid-bill-clinton-/",
+    "rating": "Half True"
+  },
+  {
+    "claim": "\"California wildfires are being magnified & made so much worse by the bad environmental laws which aren’t allowing massive amount of readily available water to be properly utilized. It is being diverted into the Pacific Ocean.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/california/statements/2018/aug/06/donald-trump/california-wildfires-made-worse-hot-dry-conditions/",
+    "rating": "False"
+  },
+  {
+    "claim": "The 5-4 decisions the Supreme Court reaches \"are going up.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/punditfact/statements/2018/oct/12/stephen-carter/no-5-4-supreme-court-rulings-are-not-rise/",
+    "rating": "False"
+  },
+  {
+    "claim": "\"Navy destroyer strikes a building in downtown Houston.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/punditfact/statements/2017/sep/01/blog-posting/internet-rumor-about-navy-destroyer-hitting-housto/",
+    "rating": "Pants on Fire"
+  },
+  {
+    "claim": "The Russians \"tried to hack the Republican National Committee, and they were unable to break through.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2017/jan/11/donald-trump/trump-says-russians-were-unable-hack-republican-na/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "“Almost half a million people are still eligible (for DACA), particularly in the Asian-American and Pacific Islander community.”",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2016/aug/22/hillary-clinton/clinton-says-almost-half-million-people-still-elig/",
+    "rating": "True"
+  },
+  {
+    "claim": "\"380 Americans have been killed in 294 mass shootings in 2015 alone.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/florida/statements/2015/oct/08/debbie-wasserman-schultz/how-many-americans-have-been-killed-mass-shootings/",
+    "rating": "Half True"
+  },
+  {
+    "claim": "Says CNN’s Anderson Cooper stood in a ditch during Hurricane Florence to exaggerate water levels.",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/facebook-fact-checks/statements/2018/sep/18/viral-image/hoax-uses-2008-anderson-cooper-photo-proof-fake-hu/",
+    "rating": "Pants on Fire"
+  },
+  {
+    "claim": "\"We are coming up on our 40th anniversary of electing a Republican to the United States Senate. 1972 was the last time New Jersey sent a Republican to the United States Senate.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/new-jersey/statements/2012/may/09/chris-christie/chris-christie-said-new-jersey-hasnt-sent-republic/",
+    "rating": "True"
+  },
+  {
+    "claim": "“Most economists believe that over 70 percent of corporate taxes are paid for by the workers.”",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/2017/09/benefits-corporate-tax-cut/",
+    "rating": "Exaggerates"
+  },
+  {
+    "claim": "“The problem with that particular bill is it became a $50 billion bill that was filled with unrelated pork. Two-thirds of that bill had nothing to do with Sandy.”",
+    "publisher": "Washington Post",
+    "url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/08/29/ted-cruzs-claim-that-two-thirds-of-the-hurricane-sandy-bill-had-nothing-to-do-with-sandy/",
+    "rating": "Three Pinocchios"
+  },
+  {
+    "claim": "Reauthorizing the Children’s Health Insurance Program \"for six years saves $1 billion\" and doing it for 10 years saves $6 billion.",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2018/jan/24/nancy-pelosi/nancy-pelosi-correct-renewing-kids-health-program-/",
+    "rating": "True"
+  },
+  {
+    "claim": "\"Right now in Ohio 200,000 people are getting opioid treatment because they have insurance under the Affordable Care Act.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/ohio/statements/2018/apr/20/sherrod-brown/sherrod-brown-credits-obamacare-helping-pay-opioid/",
+    "rating": "Mostly True"
+  },
+  {
+    "claim": "California’s Capitol building is \"second only to Disneyland,\" among visitor sites in the state.",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/california/statements/2016/may/27/richard-pan/mickey-mouse-claim-californias-capitol-building-se/",
+    "rating": "False"
+  },
+  {
+    "claim": "\"Our bold reforms have Wisconsin’s unemployment rate down to an all-time LOW of 2.9 percent, and the number of people working at an all-time HIGH!\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/wisconsin/statements/2018/apr/18/scott-walker/record-low-unemployment-and-record-high-number-peo/",
+    "rating": "Half True"
+  },
+  {
+    "claim": "\"U.S. Steel just announced that they are building six new steel mills.\"",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/truth-o-meter/statements/2018/aug/02/donald-trump/us-steel-not-opening-six-new-mills-donald-trump/",
+    "rating": "False"
+  },
+  {
+    "claim": "“We’ve signed more bills — and I’m talking about through the legislature — than any president ever.”",
+    "publisher": "Washington Post",
+    "url": "https://www.washingtonpost.com/news/fact-checker/wp/2017/07/17/no-president-trump-youve-havent-signed-more-bills-than-any-president/",
+    "rating": "Very Wrong"
+  }
+]

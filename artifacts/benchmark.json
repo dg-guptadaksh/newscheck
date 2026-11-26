@@ -1,0 +1,9 @@
+{
+  "scored_tokens": 256,
+  "inference_median_ms": 58.53,
+  "retrieval_median_ms": 19.99,
+  "onnx_bytes": 82533880,
+  "classification_repetitions": 30,
+  "shap_median_ms": 30467.96,
+  "shap_repetitions": 1
+}

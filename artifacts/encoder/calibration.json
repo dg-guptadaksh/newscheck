@@ -1,0 +1,108 @@
+{
+  "samples": 512,
+  "seed": 42,
+  "source": "WELFake validation subset, seed 42. Checkpoint training overlap is unknown.",
+  "temperature": 4.338670974049042,
+  "before": {
+    "ece": 0.12061293935403228,
+    "mean_confidence": 0.9914258718490601,
+    "bins": [
+      {
+        "bin": 7,
+        "count": 2,
+        "confidence": 0.5265920162200928,
+        "accuracy": 1.0
+      },
+      {
+        "bin": 8,
+        "count": 1,
+        "confidence": 0.5624275207519531,
+        "accuracy": 1.0
+      },
+      {
+        "bin": 9,
+        "count": 1,
+        "confidence": 0.6480028629302979,
+        "accuracy": 1.0
+      },
+      {
+        "bin": 10,
+        "count": 2,
+        "confidence": 0.6889370679855347,
+        "accuracy": 0.5
+      },
+      {
+        "bin": 11,
+        "count": 1,
+        "confidence": 0.7919970750808716,
+        "accuracy": 0.0
+      },
+      {
+        "bin": 12,
+        "count": 2,
+        "confidence": 0.8322427272796631,
+        "accuracy": 1.0
+      },
+      {
+        "bin": 13,
+        "count": 7,
+        "confidence": 0.9051512479782104,
+        "accuracy": 0.7142857142857143
+      },
+      {
+        "bin": 14,
+        "count": 496,
+        "confidence": 0.9983386993408203,
+        "accuracy": 0.8830645161290323
+      }
+    ]
+  },
+  "after": {
+    "ece": 0.007143026683479569,
+    "mean_confidence": 0.8767973184585571,
+    "bins": [
+      {
+        "bin": 7,
+        "count": 3,
+        "confidence": 0.5089104175567627,
+        "accuracy": 1.0
+      },
+      {
+        "bin": 8,
+        "count": 5,
+        "confidence": 0.5567044019699097,
+        "accuracy": 0.6
+      },
+      {
+        "bin": 9,
+        "count": 14,
+        "confidence": 0.6378507018089294,
+        "accuracy": 0.6428571428571429
+      },
+      {
+        "bin": 10,
+        "count": 14,
+        "confidence": 0.7067281603813171,
+        "accuracy": 0.6428571428571429
+      },
+      {
+        "bin": 11,
+        "count": 15,
+        "confidence": 0.769912600517273,
+        "accuracy": 0.8
+      },
+      {
+        "bin": 12,
+        "count": 38,
+        "confidence": 0.8379645347595215,
+        "accuracy": 0.8421052631578947
+      },
+      {
+        "bin": 13,
+        "count": 423,
+        "confidence": 0.9040060043334961,
+        "accuracy": 0.9030732860520094
+      }
+    ]
+  }
+}

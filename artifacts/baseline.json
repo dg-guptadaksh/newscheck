@@ -1,0 +1,9 @@
+{
+  "name": "TF-IDF + Logistic Regression",
+  "version": "welfake-tfidf-v1",
+  "mode": "baseline",
+  "temperature": 0.5751159554621126,
+  "max_tokens": 256,
+  "token_unit": "lexical tokens",
+  "attribution": "Weighted TF-IDF terms"
+}

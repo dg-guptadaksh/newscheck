@@ -1,0 +1,20 @@
+{
+  "name": "DistilRoBERTa \u00b7 ONNX int8",
+  "mode": "encoder",
+  "version": "public-distilroberta-int8-v1",
+  "checkpoint": "vikram71198/distilroberta-base-finetuned-fake-news-detection@1df1a775036940eea52988c309d962c50c5c55c1",
+  "temperature": 4.338670974049042,
+  "max_tokens": 256,
+  "token_unit": "word-piece tokens",
+  "attribution": "SHAP effects on Fake probability",
+  "calibration_source": "WELFake validation subset, seed 42. Checkpoint training overlap is unknown.",
+  "calibration_samples": 512,
+  "labels": [
+    "Real",
+    "Fake"
+  ],
+  "files": {
+    "model.int8.onnx": "7fade1c5819bad284f3b35bcfad05ff7f89c1f803e80341fa91a2229104eee90",
+    "tokenizer.json": "624e3921f48a3e8a726d8d72cf01ce938cc993df31d87d87270abe0065456e38"
+  }
+}

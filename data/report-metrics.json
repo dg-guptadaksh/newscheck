@@ -1,0 +1,91 @@
+{
+  "source": "Fake News Detection Minor Project Report, Tables 4.3\u20134.5",
+  "models": [
+    {
+      "name": "TF-IDF + Logistic Regression",
+      "welfake": 95.85,
+      "covid": 60.79,
+      "liar": 53.28,
+      "macro_f1": 95.85,
+      "fake_precision": 95.57,
+      "fake_recall": 96.41,
+      "fake_f1": 95.98,
+      "roc_auc": 0.9912
+    },
+    {
+      "name": "TF-IDF + Linear SVM",
+      "welfake": 96.4,
+      "covid": 62.2,
+      "liar": 54.06,
+      "macro_f1": 96.4,
+      "fake_precision": 96.07,
+      "fake_recall": 96.98,
+      "fake_f1": 96.52,
+      "roc_auc": 0.9934
+    },
+    {
+      "name": "MiniLM embeddings + LR",
+      "welfake": 94.7,
+      "covid": 68.88,
+      "liar": 57.06,
+      "macro_f1": 94.69,
+      "fake_precision": 94.65,
+      "fake_recall": 95.06,
+      "fake_f1": 94.85,
+      "roc_auc": 0.9865
+    },
+    {
+      "name": "Fine-tuned DistilRoBERTa",
+      "welfake": 98.91,
+      "covid": 74.3,
+      "liar": 61.17,
+      "macro_f1": 98.91,
+      "fake_precision": 98.78,
+      "fake_recall": 99.1,
+      "fake_f1": 98.94,
+      "roc_auc": 0.9991
+    },
+    {
+      "name": "Llama 3.1 8B Instruct",
+      "welfake": 81.22,
+      "covid": 81.4,
+      "liar": 63.06,
+      "macro_f1": 81.14,
+      "fake_precision": 79.6,
+      "fake_recall": 85.38,
+      "fake_f1": 82.39,
+      "roc_auc": 0.8407
+    }
+  ],
+  "selected": {
+    "temperature": 1.74,
+    "ece_before": 0.0268,
+    "ece_after": 0.0061
+  },
+  "calibration": [
+    {
+      "name": "TF-IDF + Logistic Regression",
+      "temperature": 1.21,
+      "ece_before": 0.0387,
+      "ece_after": 0.0149
+    },
+    {
+      "name": "MiniLM embeddings + LR",
+      "temperature": 1.14,
+      "ece_before": 0.0325,
+      "ece_after": 0.0137
+    },
+    {
+      "name": "Fine-tuned DistilRoBERTa",
+      "temperature": 1.74,
+      "ece_before": 0.0268,
+      "ece_after": 0.0061
+    },
+    {
+      "name": "Llama 3.1 8B Instruct",
+      "temperature": null,
+      "ece_before": 0.1832,
+      "ece_after": null
+    }
+  ]
+}
